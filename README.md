@@ -8,7 +8,7 @@
 [![React](https://img.shields.io/badge/React-18.0+-61dafb.svg)](https://reactjs.org/)
 
 ## Demo Video
-▶️ [Watch the full demo]([https://drive.google.com/file/d/1KPFqAmRUGE6Q_UdL_YPXsyP_Jzi7lsDp/view?usp=sharing](https://youtu.be/MPJRqgAQphw))
+▶️ [Watch the full demo](https://youtu.be/MPJRqgAQphw)
 
 ---
 
