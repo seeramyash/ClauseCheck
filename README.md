@@ -7,6 +7,9 @@
 [![Node.js](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.0+-61dafb.svg)](https://reactjs.org/)
 
+## Demo Video
+▶️ [Watch the full demo](https://github.com/seeramyash/ClauseCheck/releases/download/demo/demo.mp4)
+
 ---
 
 ## 📋 Table of Contents
