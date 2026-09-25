@@ -1,4 +1,4 @@
-# 🏛️ Legal Tech Suite - ClauseCheck
+# 🏛️ Legal Tech Suite - Clausecheck
 
 > **A comprehensive legal technology platform integrating AI-powered courtroom simulation, case file management, and contract analysis into a unified ecosystem.**
 
